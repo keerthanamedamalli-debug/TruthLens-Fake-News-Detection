@@ -1,0 +1,62 @@
+domain,name,credibility_score,category,country,notes
+reuters.com,Reuters,96,Trusted,Global,International news agency with rigorous editorial standards
+apnews.com,Associated Press,95,Trusted,Global,Independent global news agency with strict verification
+bbc.com,BBC News,94,Trusted,UK,Public service broadcaster with high editorial standards
+thehindu.com,The Hindu,92,Trusted,India,Major Indian national daily with strong fact-checking
+ndtv.com,NDTV,88,Trusted,India,Established Indian news network with editorial oversight
+indianexpress.com,The Indian Express,90,Trusted,India,Investigative national daily with reputable track record
+altnews.in,Alt News,96,Trusted,India,Certified IFCN fact-checking organization in India
+boomlive.in,BOOM Live,95,Trusted,India,Certified IFCN fact-checking agency specializing in viral claims
+snopes.com,Snopes,94,Trusted,USA,Pioneering fact-checking website covering urban legends and news
+politifact.com,PolitiFact,93,Trusted,USA,Pulitzer Prize-winning fact-checking initiative
+theguardian.com,The Guardian,90,Trusted,UK,Independent global newspaper with transparent corrections
+nytimes.com,The New York Times,91,Trusted,USA,Major newspaper of record with peer-reviewed investigative teams
+nature.com,Nature Journal,99,Trusted,Global,Peer-reviewed premier scientific journal
+who.int,World Health Organization,98,Trusted,Global,Official United Nations global health agency
+cdc.gov,Centers for Disease Control,97,Trusted,USA,Leading public health institute
+pib.gov.in,PIB Fact Check,92,Trusted,India,Official Government of India verification portal
+wsj.com,The Wall Street Journal,91,Trusted,USA,Major financial and investigative daily
+bloomberg.com,Bloomberg,92,Trusted,USA,Leading global business and financial journalism
+timesofindia.indiatimes.com,The Times of India,82,Trusted,India,High circulation mainstream daily with commercial orientation
+hindustantimes.com,Hindustan Times,84,Trusted,India,Established Indian daily covering national and regional news
+livemint.com,Mint,88,Trusted,India,Reputable Indian financial and policy daily
+theprint.in,ThePrint,82,Trusted,India,Digital Indian news portal with multi-perspective analysis
+scroll.in,Scroll.in,84,Trusted,India,Independent digital news publication
+wire.in,The Wire,80,Trusted,India,Independent investigative journalism portal
+cnbc.com,CNBC,89,Trusted,USA,Business and market reporting with corporate focus
+scientificamerican.com,Scientific American,96,Trusted,USA,Long-standing popular science magazine
+nationalgeographic.com,National Geographic,94,Trusted,USA,Authoritative natural sciences and exploration publication
+theatlantic.com,The Atlantic,89,Trusted,USA,In-depth commentary and investigative journalism
+economist.com,The Economist,93,Trusted,UK,Authoritative weekly covering international politics and finance
+aljazeera.com,Al Jazeera English,85,Trusted,Qatar,Major international news organization
+dailymail.co.uk,Daily Mail,52,Mixed,UK,Tabloid known for sensational headlines and unverified claims
+nypost.com,New York Post,55,Mixed,USA,Tabloid known for dramatic framing and partisan sensationalism
+foxnews.com,Fox News,58,Mixed,USA,Conservative news network with high opinion-to-news ratio
+opindia.com,OpIndia,42,Mixed,India,Partisan digital portal frequently flagged for communal bias
+thesun.co.uk,The Sun,48,Mixed,UK,Sensationalist tabloid with frequent retractions
+huffpost.com,HuffPost,65,Mixed,USA,Progressive digital platform with strong opinion framing
+buzzfeednews.com,BuzzFeed News,68,Mixed,USA,Investigative unit separated from viral clickbait content
+rt.com,RT (Russia Today),38,Mixed,Russia,State-funded media known for disinformation campaigns
+sputniknews.com,Sputnik News,35,Mixed,Russia,State-sponsored international network with propaganda history
+express.co.uk,Daily Express,45,Mixed,UK,British tabloid with recurring sensationalist climate and health headlines
+theonion.com,The Onion,15,Satire,USA,Satirical digital media company publishing deliberate parody
+babylonbee.com,The Babylon Bee,18,Satire,USA,Conservative satirical news website parodying current events
+clickhole.com,ClickHole,12,Satire,USA,Satirical website parodying clickbait and listicles
+fakingnews.firstpost.com,Faking News,15,Satire,India,Indian satire portal publishing fictional humorous stories
+theborowitzreport.com,The Borowitz Report,15,Satire,USA,Satirical column parodying political news
+newsthump.com,NewsThump,15,Satire,UK,British topical satire and spoof news site
+infowars.com,InfoWars,8,Unreliable,USA,Far-right conspiracy site notorious for Sandy Hook disinformation
+naturalnews.com,Natural News,10,Unreliable,USA,Promotes disproven medical claims and anti-vaccine conspiracies
+beforeitsnews.com,Before It's News,12,Unreliable,USA,Uncurated citizen platform teeming with pseudoscientific hoaxes
+yournewswire.com,Your News Wire / NewsPunch,6,Unreliable,USA,Discredited fake news site responsible for viral hoaxes
+worldnewsdailyreport.com,World News Daily Report,8,Unreliable,Canada,Hoax portal inventing fictional arrests and mythical creatures
+newswars.com,NewsWars,9,Unreliable,USA,Affiliated with InfoWars network spreading conspiracy narratives
+globalresearch.ca,Global Research,18,Unreliable,Canada,Conspiracy theory portal promoting geopolitical disinformation
+breitbart.com,Breitbart News,34,Unreliable,USA,Hyper-partisan portal with history of misleading claims
+zerohedge.com,ZeroHedge,40,Unreliable,Bulgaria,Financial blog known for sensationalist speculation and conspiracy claims
+wnd.com,WorldNetDaily,18,Unreliable,USA,Conspiracy theory and birther claims publisher
+veteranstoday.com,Veterans Today,14,Unreliable,USA,Disinformation portal spreading fabricated military and intelligence stories
+greatgameindia.com,GreatGameIndia,20,Unreliable,India,Geopolitical conspiracy blog promoting COVID-19 bioweapon theories
+postcard.news,Postcard News,16,Unreliable,India,Partisan blog whose founder was arrested for spreading fake news
+nationalreport.net,National Report,10,Unreliable,USA,Discredited fake news site fabricating political controversies
+empirenews.net,Empire News,10,Unreliable,USA,Fabricated entertainment and political satire disguised as real news

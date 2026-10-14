@@ -1,0 +1,10 @@
+{
+  "data_source": "Synthetic demo dataset",
+  "total_samples": 1400,
+  "train_samples": 1120,
+  "val_samples": 140,
+  "test_samples": 140,
+  "real_count": 700,
+  "fake_count": 700,
+  "random_seed": 42
+}
